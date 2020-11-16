@@ -9,6 +9,11 @@
 - 💬 Ask me about .Net, Java programming languages.
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
 
+### Additional Tasks
+
+- https://gokgu.github.io/html-with-css/
+- https://gokgu.github.io/resume/
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
