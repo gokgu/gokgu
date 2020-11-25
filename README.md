@@ -11,6 +11,7 @@
 
 ### Additional Projects
 
+- https://gokgu.github.io/javascript-DOM-example/
 - https://gokgu.github.io/html-with-bootstrap/
 - https://gokgu.github.io/html-with-css/
 - https://gokgu.github.io/resume/
