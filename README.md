@@ -11,11 +11,12 @@
 
 ### Additional Projects
 
-- https://gokgu.github.io/Advanced-JS-DOM-Example/
-- https://gokgu.github.io/javascript-DOM-example/
-- https://gokgu.github.io/html-with-bootstrap/
-- https://gokgu.github.io/html-with-css/
-- https://gokgu.github.io/resume/
+- https://gokgu.github.io/Simon-Game-Challenge-jQuery/ <b>jQuery</b>
+- https://gokgu.github.io/Advanced-JS-DOM-Example/ <b>Advanced JavaScript</b>
+- https://gokgu.github.io/javascript-DOM-example/ <b>JavaScript DOM</b>
+- https://gokgu.github.io/html-with-bootstrap/ <b>Bootstrap</b>
+- https://gokgu.github.io/html-with-css/ <b>CSS</b>
+- https://gokgu.github.io/resume/ <b>Resume CV</b>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
