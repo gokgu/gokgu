@@ -11,12 +11,12 @@
 
 ### Additional Projects
 
-- https://gokgu.github.io/Simon-Game-Challenge-jQuery/  <b>jQuery</b>
-- https://gokgu.github.io/Advanced-JS-DOM-Example/  <b>Advanced JavaScript</b>
-- https://gokgu.github.io/javascript-DOM-example/   <b>JavaScript DOM</b>
-- https://gokgu.github.io/html-with-bootstrap/  <b>Bootstrap</b>
-- https://gokgu.github.io/html-with-css/  <b>CSS</b>
-- https://gokgu.github.io/resume/   <b>Resume CV</b>
+- <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/  
+- <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/  
+- <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/   
+- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/  
+- <b>CSS - </b> https://gokgu.github.io/html-with-css/  
+- <b>Resume CV - </b> https://gokgu.github.io/resume/   
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
