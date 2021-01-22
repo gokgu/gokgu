@@ -11,12 +11,14 @@
 
 ### Additional Projects
 
-- <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/  
-- <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/  
-- <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/   
-- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/  
-- <b>CSS - </b> https://gokgu.github.io/html-with-css/  
-- <b>Resume CV - </b> https://gokgu.github.io/resume/   
+- <b>NodeJS with MongoDB and Heroku  - </b> https://dry-meadow-54978.herokuapp.com/ \\ To Do List
+- <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/ \\ Simon Game Challenge
+- <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/  \\ Drum Kit
+- <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/ \\ Dice Challenge
+- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/ \\ One Page Web Site
+- <b>Bootstrap CV - </b> https://gokgu.github.io/resume/ \\ Resume with Bootstrap
+- <b>CSS - </b> https://gokgu.github.io/html-with-css/  \\ Resume with CSS
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
