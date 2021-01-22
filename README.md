@@ -28,7 +28,7 @@
 <body>
 <!-- in your body -->
 <i class="devicon-atom-original colored"></i>
-<7body>
+</body>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="bash" width="150" height="100"/></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="bash" width="150" height="100"/></p>
