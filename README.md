@@ -32,7 +32,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" alt="jquery" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="75" width="75"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt=".git" height="75" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="150" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="225" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" height="75" width="75"/>
 </p>
 
