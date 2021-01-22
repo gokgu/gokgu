@@ -32,8 +32,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" alt="jquery" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="75" width="75"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt=".git" height="75" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="75" width="150"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" height="75" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="75" width="150"/>
+  
 </p>
 
 <!--<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </p>-->
