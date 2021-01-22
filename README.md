@@ -21,24 +21,19 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<head>
-<!-- in your header -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.9.0/devicon.min.css">
-</head>
-<body>
-<!-- in your body -->
-<i class="devicon-atom-original colored"></i>
-</body>
 
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="bash" width="150" height="100"/></p>-->
 <p align="center">
-  <img style="color:red" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg" alt="atom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg" alt="atom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg" alt="atom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/atom.svg" alt="atom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/atom.svg" alt="atom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/atom.svg" alt="atom"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/atom.svg" alt="atom"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Atom_icon.svg" alt="atom" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" height="50" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" alt="jquery" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="50" width="50"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt=".git" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="50" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" height="50" width="50"/>
 </p>
 
 <!--<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </p>-->
