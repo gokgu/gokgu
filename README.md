@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
 
-- 🔭 I’m currently working at Linus Technology.
+- 🔭 I’m currently working at Universe of Software.
 - 🌱 I’m currently learning Web and Mobile Development.
 - 💬 Ask me about .Net, Java programming languages.
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
