@@ -20,7 +20,7 @@
 - <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                            -  <i>Resume with Bootstrap</i>
 - <b>CSS - </b> https://gokgu.github.io/html-with-css/                              -  <i>Resume with CSS</i>
 
-### Blogs posts
+### Programming Languages and Tools
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
