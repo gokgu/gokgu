@@ -20,11 +20,12 @@
 - <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                            -  <i>Resume with Bootstrap</i>
 - <b>CSS - </b> https://gokgu.github.io/html-with-css/                              -  <i>Resume with CSS</i>
 
-### Programming Languages and Tools
+### Programming Languages and Tools 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <!--<p align="center"><img src="https://user-images.githubusercontent.com/30186107/29488525-f55a69d0-84da-11e7-8a39-5476f663b5eb.png" alt="bash" width="150" height="100"/></p>-->
+<br>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Atom_icon.svg" alt="atom" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html5" height="75" width="75" />
