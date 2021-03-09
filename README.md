@@ -11,7 +11,7 @@
 
 ### Additional Projects
 
-- <b>MERN Project - React + Redux, Node, Express, MongoDB </b> https://memories-app-pro.netlify.app/                      -  <i>Create Posts of Memories</i>
+- <b>MERN Project - React + Redux, Node, Express, MongoDB - </b> https://memories-app-pro.netlify.app/                      -  <i>Create Posts of Memories</i>
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                               -  <i>Take Notes With Keeper</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                                        -  <i>To Do List</i>
 - <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                                   -  <i>Simon Game Challenge</i>
