@@ -11,14 +11,15 @@
 
 ### Additional Projects
 
-- <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                         -  <i>Take Notes With Keeper</i>
-- <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/  -  <i>To Do List</i>
-- <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/             -  <i>Simon Game Challenge</i>
-- <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/    -  <i>Drum Kit</i>
-- <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/          -  <i>Dice Challenge</i>
-- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                  -  <i>One Page Web Site</i>
-- <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                            -  <i>Resume with Bootstrap</i>
-- <b>CSS - </b> https://gokgu.github.io/html-with-css/                              -  <i>Resume with CSS</i>
+- <b>MERN Project - React + Redux, Node, Express, MongoDB </b> https://memories-app-pro.netlify.app/                      -  <i>Create Posts of Memories</i>
+- <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                               -  <i>Take Notes With Keeper</i>
+- <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                                        -  <i>To Do List</i>
+- <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                                   -  <i>Simon Game Challenge</i>
+- <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                                          -  <i>Drum Kit</i>
+- <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/                                                -  <i>Dice Challenge</i>
+- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                                        -  <i>One Page Web Site</i>
+- <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                                  -  <i>Resume with Bootstrap</i>
+- <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                                    -  <i>Resume with CSS</i>
 
 ### Programming Languages and Tools 
 <!-- BLOG-POST-LIST:START -->
