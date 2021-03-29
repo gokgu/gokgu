@@ -42,7 +42,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="75" width="175"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_di_Heroku.png" alt="heroku" height="75" width="175"/><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="python" height="75" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="75" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="75" width="175"/>
  
 </p>
 
