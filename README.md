@@ -10,7 +10,7 @@
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
 
 ### Additional Projects
-- <b>Flutter Android Project - Dart - </b> https://github.com/gokgu/clima-flutter                                         -  <i>Clima- Weather Forecast</i>
+- <b>Flutter Android Project - Dart - </b> https://github.com/gokgu/clima-flutter                                         -  <i>Clima - Weather Forecast</i>
 - <b>Flutter Android Project - Dart - </b> https://github.com/gokgu/bmi_calculator_flutter_app                            -  <i>BMI Calculator</i>
 - <b>MERN Project - React + Redux, Node, Express, MongoDB - </b> https://memories-app-pro.netlify.app/                    -  <i>Create Posts of Memories</i>
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                               -  <i>Take Notes With Keeper</i>
