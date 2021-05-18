@@ -22,6 +22,7 @@
 - <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i>
 - <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                             -  <i>Drum Kit</i>
 - <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/                                   -  <i>Dice Challenge</i>
+- <b>Html CSS JavaScript - </b> https://gokgu.github.io/Block_Manipulation_JS/                               -  <i>Block Manipulation</i>
 - <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
 - <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                     -  <i>Resume with Bootstrap</i>
 - <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
