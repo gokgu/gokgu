@@ -30,11 +30,9 @@
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                           -  <i>To Do List</i>
 - <b>NodeJS with API and CodeSandbox - </b> https://34qd9-3000.sse.codesandbox.io/                           -  <i>Weather Forecast</i>
-
 - <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i>
 - <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                             -  <i>Drum Kit</i>
 - <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/                                   -  <i>Dice Challenge</i>
-
 - <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
 - <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
 
