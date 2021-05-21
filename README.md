@@ -9,25 +9,40 @@
 - 💬 Ask me about .Net, Java programming languages.
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
 
+### Curriculum Vitae
+
+- <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                     -  <i>Resume with Bootstrap</i>
+
 ### Additional Projects
+
+- <b>MERN Project - React + Redux, Node, Express, MongoDB - </b> https://memories-app-pro.netlify.app/       -  <i>Create Posts of Memories</i>
+- <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
+- <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
+
+### Mobile Development With https://www.appbrewery.co/
+
 - <b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i>
 - <b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i>
 - <b>Building Flutter UIs for Intermediates - </b> https://github.com/gokgu/bmi_calculator_flutter_app       -  <i>BMI Calculator</i>
-- <b>MERN Project - React + Redux, Node, Express, MongoDB - </b> https://memories-app-pro.netlify.app/       -  <i>Create Posts of Memories</i>
+
+### Web Development With https://www.appbrewery.co/
+
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
-- <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                           -  <i>To Do List</i>
 - <b>NodeJS with API and CodeSandbox - </b> https://34qd9-3000.sse.codesandbox.io/                           -  <i>Weather Forecast</i>
-- <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
+
 - <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i>
 - <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                             -  <i>Drum Kit</i>
 - <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/                                   -  <i>Dice Challenge</i>
-- 
+
+- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
+- <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
+
+### Web Development With https://vertex-academy.com/en/
+
+- <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i>
-- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
-- <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                     -  <i>Resume with Bootstrap</i>
-- <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
 
 ### Programming Languages and Tools 
 <!-- BLOG-POST-LIST:START -->
