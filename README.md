@@ -38,6 +38,7 @@
 
 ### Web Development With https://vertex-academy.com/en/
 
+- <b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i>
