@@ -3,7 +3,7 @@
 </div>
 
 <h1> Hi! My name is Ahmet Gökhan Gürel. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p> Thank You for taking the time to view my GitHub Profile. <img width="10%" height="10%" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"></p>
+<p> Thank You for taking the time to view my GitHub Profile. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
  
 <h2> About Me </h2> 
@@ -60,6 +60,8 @@
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i>
+
+<p align="center"> <img width="10%" height="10%" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"> </p>
 
 <h2> Skills and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <!-- BLOG-POST-LIST:START -->
