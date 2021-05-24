@@ -31,7 +31,7 @@
 - <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
 
 <h2> Mobile Development With 
-<a href="https://www.appbrewery.co/"><img align="right" width="55%" src="https://github.com/londonappbrewery/Images/raw/master/AppBreweryBanner.png"/></a></h2>
+<a href="https://www.appbrewery.co/"><img align="right" width="10%" src="https://github.com/londonappbrewery/Images/raw/master/AppBreweryBanner.png"/></a></h2>
 
 - <b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i>
 - <b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i>
