@@ -9,7 +9,9 @@
 <div size='20px'> Hi! My name is Ahmet Gökhan Gürel. Thank You for taking the time to view my GitHub Profile.
 </div>
 
-<div>A passionate backend developer from Istanbul, Turkey <img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"></div> 
+<div>A passionate backend developer from Istanbul, Turkey</div> 
+  
+<div><img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"> </div>
   
 <h2> About Me </h2>
 
