@@ -82,10 +82,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="75" width="75"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt=".git" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" height="75" width="75"/><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="75" width="175"/>
+<!--   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="75" width="175"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_di_Heroku.png" alt="heroku" height="75" width="175"/><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="python" height="75" width="75"/><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="75" width="175"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="75" width="175"/> -->
  
 </p>
 
