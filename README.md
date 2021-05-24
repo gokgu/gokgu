@@ -32,15 +32,15 @@
 
 <h2> Mobile Development
 <a href="https://www.appbrewery.co/"> 
-<img align="right" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a></h2>
+<img align="center" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a></h2>
 
 - <b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i>
 - <b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i>
 - <b>Building Flutter UIs for Intermediates - </b> https://github.com/gokgu/bmi_calculator_flutter_app       -  <i>BMI Calculator</i>
 
-<h2> Web Development
+<h2> Web Development I
 <a href="https://www.appbrewery.co/"> 
-<img align="right" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a> </h2>
+<img align="center" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a> </h2>
 
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                           -  <i>To Do List</i>
@@ -51,7 +51,9 @@
 - <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
 - <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
 
-<h2> Web Development With https://vertex-academy.com/en/ </h2>
+<h2> Web Development II
+<a href="https://vertex-academy.com/"> 
+<img align="center" width="30px" height="30px" src="https://pbs.twimg.com/profile_images/1125544862793764867/ysF9lTfJ_400x400.jpg"/></a> </h2>
 
 - <b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
