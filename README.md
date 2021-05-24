@@ -26,7 +26,7 @@
 
 - <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                     -  <i>Resume with Bootstrap</i>
 
-<p align="center"> <img width="20%" height="20%" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></p>
+<p align="center"> <img width="10%" height="10%" src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"></p>
 
 <h2> Additional Projects </h2>
 
