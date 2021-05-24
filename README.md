@@ -8,8 +8,9 @@
   
 <div><img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"> </div>
  
-<h2> About Me  <p> A passionate backend developer from Istanbul, Turkey </p></h2> 
+<h2> About Me </h2> 
 
+- A passionate backend developer from Istanbul, Turkey
 - 🔭 I’m currently working at Universe of Software.
 - 🌱 I’m currently learning Web and Mobile Development.
 - 💬 Ask me about .Net, Java programming languages.
