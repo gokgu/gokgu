@@ -2,12 +2,10 @@
 <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi! My name is Ahmet Gökhan Gürel. Thank You for taking the time to view my GitHub Profile. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
   
-<div size='20px'> Hi! My name is Ahmet Gökhan Gürel. Thank You for taking the time to view my GitHub Profile.
-</div>
 <div><img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"> </div>
 <div>A passionate backend developer from Istanbul, Turkey</div> 
  
@@ -19,9 +17,8 @@
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
   
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/rahulbanerjee2699'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/rahulbanerjee99'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://www.github.com/rahulbanerjee26'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a> 
 
 ### Curriculum Vitae
 
