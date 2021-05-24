@@ -15,7 +15,8 @@
 - 🌱 I’m currently learning Web and Mobile Development.
 - 💬 Ask me about .Net, Java programming languages.
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
-  
+
+<br>
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a>
@@ -60,7 +61,7 @@
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i>
 
-<p align="center"><img height="75" width="75" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"></p>
+<p align="center"><img width="50%" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"></p>
 
 <h2> Skills and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <!-- BLOG-POST-LIST:START -->
