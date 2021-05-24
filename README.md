@@ -1,8 +1,19 @@
-<h1>Hello 👋, I'm Ahmet Gökhan GÜREL </h1>
+<div align="center">
+<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
+</div>
+
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
+  
+<div size='20px'> Hi! My name is Ahmet Gökhan Gürel. Thank You for taking the time to view my GitHub Profile.
+</div>
 
 <h3>A passionate backend developer from Istanbul, Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working at Universe of Software.
 - 🌱 I’m currently learning Web and Mobile Development.
