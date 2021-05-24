@@ -31,14 +31,14 @@
 - <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
 
 <h2> Mobile Development With 
-<a href="https://www.appbrewery.co/"><img width="10%" src="https://github.com/londonappbrewery/Images/raw/master/AppBreweryBanner.png"/></a></h2>
+<a href="https://www.appbrewery.co/"><img width="10%" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a></h2>
 
 - <b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i>
 - <b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i>
 - <b>Building Flutter UIs for Intermediates - </b> https://github.com/gokgu/bmi_calculator_flutter_app       -  <i>BMI Calculator</i>
 
 <h2> Web Development With 
-<a href="https://www.appbrewery.co/"><img width="10%" src="https://github.com/londonappbrewery/Images/raw/master/AppBreweryBanner.png"/></a> </h2>
+<a href="https://www.appbrewery.co/"><img width="10%" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a> </h2>
 
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                           -  <i>To Do List</i>
