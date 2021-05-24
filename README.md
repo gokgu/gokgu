@@ -18,23 +18,23 @@
 <a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a> 
 
-### Curriculum Vitae
+<h2> Curriculum Vitae </h2>
 
 - <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                     -  <i>Resume with Bootstrap</i>
 
-### Additional Projects
+<h2> Additional Projects </h2>
 
 - <b>MERN Project - React + Redux, Node, Express, MongoDB - </b> https://memories-app-pro.netlify.app/       -  <i>Create Posts of Memories</i>
 - <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
 - <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
 
-### Mobile Development With https://www.appbrewery.co/
+<h2> Mobile Development With https://www.appbrewery.co/ </h2>
 
 - <b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i>
 - <b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i>
 - <b>Building Flutter UIs for Intermediates - </b> https://github.com/gokgu/bmi_calculator_flutter_app       -  <i>BMI Calculator</i>
 
-### Web Development With https://www.appbrewery.co/
+<h2> Web Development With https://www.appbrewery.co/ </h2>
 
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                           -  <i>To Do List</i>
@@ -45,14 +45,14 @@
 - <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
 - <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
 
-### Web Development With https://vertex-academy.com/en/
+<h2> Web Development With https://vertex-academy.com/en/ </h2>
 
 - <b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i>
 
-### Programming Languages and Tools 
+<h2> Programming Languages and Tools </h2>
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -71,7 +71,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png" alt="mongodb" height="75" width="175"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Logo_di_Heroku.png" alt="heroku" height="75" width="175"/><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="python" height="75" width="75"/><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="75" width="175"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="flutter" height="75" width="100%"/>
  
 </p>
 
