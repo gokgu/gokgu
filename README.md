@@ -21,7 +21,7 @@
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
 
 <br>
-
+<br>
 <h2> Curriculum Vitae </h2>
 
 - <b>Bootstrap CV - </b> https://gokgu.github.io/resume/                                                     -  <i>Resume with Bootstrap</i>
