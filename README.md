@@ -9,8 +9,10 @@
 <div size='20px'> Hi! My name is Ahmet Gökhan Gürel. Thank You for taking the time to view my GitHub Profile.
 </div>
 
-<h3>A passionate backend developer from Istanbul, Turkey <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h3> 
-
+<h3>A passionate backend developer from Istanbul, Turkey</h3> 
+  
+<img width="55%" align="right" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+  
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
