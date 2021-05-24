@@ -17,9 +17,9 @@
 - 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
 
 <br>
-<h2 align="right"> <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> Connect with me  </h2>
-<a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'right' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'right' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a>
+<h2 align="center"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a>
 <br>
 
 <h2> Curriculum Vitae </h2>
