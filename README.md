@@ -20,7 +20,7 @@
 <a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a>
 
-<img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="50px" height="50px">
+<div><img align="left" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width="50px" height="50px"></div>
 
 <h2> Curriculum Vitae </h2>
 
