@@ -3,14 +3,13 @@
 </div>
 
 <h1> Hi! My name is Ahmet Gökhan Gürel. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
- 
+<p> Thank You for taking the time to view my GitHub Profile. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
   
 <div><img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"> </div>
-<div>Thank You for taking the time to view my GitHub Profile. <br> A passionate backend developer from Istanbul, Turkey</div> 
  
 <h2> About Me </h2>
-
+<p> A passionate backend developer from Istanbul, Turkey </p>
 - 🔭 I’m currently working at Universe of Software.
 - 🌱 I’m currently learning Web and Mobile Development.
 - 💬 Ask me about .Net, Java programming languages.
