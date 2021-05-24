@@ -2,7 +2,9 @@
 <img width="100%" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 </div>
 
-<h1> Hi! My name is Ahmet Gökhan Gürel. Thank You for taking the time to view my GitHub Profile. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi! My name is Ahmet Gökhan Gürel. </h1>
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px><br>
+<h1> Thank You for taking the time to view my GitHub Profile. </h1>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
   
