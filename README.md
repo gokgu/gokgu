@@ -72,7 +72,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="css3" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="75" width="75"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" alt="jquery" height="75" width="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Jquery-icon.svg" alt="jquery" height="75" width="75"/><br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" height="75" width="75"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" alt=".git" height="75" width="75"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="react" height="75" width="75"/><br>
