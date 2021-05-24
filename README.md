@@ -5,8 +5,6 @@
 <h1> Hi! My name is Ahmet Gökhan Gürel. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p> Thank You for taking the time to view my GitHub Profile. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokgu" alt="ahmetgokhangurel" /> </p>
-  
-<div><img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif"> </div>
  
 <h2> About Me </h2> 
 
@@ -19,6 +17,8 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile'> <img width = '32px' align= 'center' src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"/></a> 
+
+<img width="100px" src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif">
 
 ### Curriculum Vitae
 
@@ -80,8 +80,3 @@
 <!--<p align="center"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </p>-->
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokgu&show_icons=true" alt="ahmetgokhangurel" /></p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmet-gökhan-gürel-4706b6125/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ahmetgökhangürel" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/14611691/ahmet-gökhan-gürel?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11387294" height="30" width="30" /></a>
-</p>
