@@ -10,7 +10,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- A passionate backend developer from Istanbul, Turkey
+- A passionate backend developer from Istanbul, Türkiye
 - 🔭 I’m currently working at Universe of Software.
 - 🌱 I’m currently learning Web and Mobile Development.
 - 💬 Ask me about .Net, Java programming languages.
