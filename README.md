@@ -30,7 +30,6 @@
 
 <h2> Additional Projects </h2>
 
-//- <b>MERN Project - React + Redux, Node, Express, MongoDB - </b> https://memories-app-pro.netlify.app/       -  <i>Create Posts of Memories</i>
 - <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
 - <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
 
