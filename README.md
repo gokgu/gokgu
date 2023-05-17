@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500px" height="500px" alt="Github" src="https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg" />
+<img width="100%" height="200px" alt="Github" src="https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg" />
 </div>
 
 <h1> Hi! My name is Ahmet Gökhan Gürel. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
