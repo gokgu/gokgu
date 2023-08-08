@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
 <img width="100%" height="50%" alt="Github" src="https://images.pexels.com/photos/92904/pexels-photo-92904.jpeg" />
-</div>
+</div>-->
 
 <h1> Hi! My name is Ahmet Gökhan Gürel. <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p> Thank You for taking the time to view my GitHub Profile. </p>
