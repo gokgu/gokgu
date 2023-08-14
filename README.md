@@ -58,7 +58,7 @@
 <a href="https://vertex-academy.com/"> 
 <img align="right" width="30px" height="30px" src="https://pbs.twimg.com/profile_images/1125544862793764867/ysF9lTfJ_400x400.jpg"/></a> </h2>
 
-- <b>NodeJS CRUD Heroku - </b> repo : shoppingcart                                                           -  <i>Shopping Cart</i>
+- <b>NodeJS CRUD - </b> https://github.com/gokgu/shoppingcart                                                -  <i>Shopping Cart</i>
 - <b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
