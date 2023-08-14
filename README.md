@@ -46,7 +46,7 @@
 <img align="right" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a> </h2>
 
 - <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
-- <b>NodeJS with MongoDB and Heroku - </b> https://dry-meadow-54978.herokuapp.com/                           -  <i>To Do List</i>
+- <b>NodeJS with MongoDB and Heroku - </b> https://capstone-todo-example-003d0a7ff60a.herokuapp.com/         -  <i>To Do List</i>
 - <b>NodeJS with API and CodeSandbox - </b> https://34qd9-3000.sse.codesandbox.io/                           -  <i>Weather Forecast</i>
 - <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i>
 - <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                             -  <i>Drum Kit</i>
@@ -58,7 +58,7 @@
 <a href="https://vertex-academy.com/"> 
 <img align="right" width="30px" height="30px" src="https://pbs.twimg.com/profile_images/1125544862793764867/ysF9lTfJ_400x400.jpg"/></a> </h2>
 
-- <b>NodeJS CRUD Heroku - </b>https://lit-citadel-74240.herokuapp.com/                                       -  <i>Shopping Cart</i>
+- <b>NodeJS CRUD Heroku - </b> repo : shoppingcart                                                           -  <i>Shopping Cart</i>
 - <b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
 - <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
