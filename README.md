@@ -39,7 +39,7 @@
 <a href="https://www.appbrewery.co/"> 
 <img align="right" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a> </h2>
 
-- <b>ReactJS with CodeSandbox - </b> https://3w0yr.csb.app/                                                  -  <i>Take Notes With Keeper</i>
+- <b>ReactJS with CodeSandbox - </b>                                                -  <i>Take Notes With Keeper</i>
 - <b>NodeJS with MongoDB and Heroku - </b> https://capstone-todo-example-003d0a7ff60a.herokuapp.com/         -  <i>To Do List</i>
 - <b>NodeJS with API and CodeSandbox - </b> https://34qd9-3000.sse.codesandbox.io/                           -  <i>Weather Forecast</i>
 - <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i>
