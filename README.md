@@ -25,7 +25,7 @@
 <h2> Additional Projects </h2>
 
 - <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
-- <b>AngularJS with CodeSandbox - </b> https://1m3fb.csb.app/                                                -  <i>Pie Chart</i>
+- <b>VueJS - </b>                                                -  <i></i>
 
 <h2> Mobile Development
 <a href="https://www.appbrewery.co/"> 
