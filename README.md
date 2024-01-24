@@ -25,7 +25,7 @@
 <h2> Additional Projects </h2>
 
 - <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
-- <b>VueJS - </b>                                                -  <i></i>
+- <b>VueJS with json-server - </b>  https://github.com/gokgu/vue-crud-project-planner                        -  <i>Project Planner</i>
 
 <h2> Mobile Development
 <a href="https://www.appbrewery.co/"> 
