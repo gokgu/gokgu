@@ -23,43 +23,41 @@
 <br>
 
 <h2> Additional Projects </h2>
-- <b>VueJS with firebase - </b> https://playlist-vue-7fe67.firebaseapp.com                                   -  <i>Create your favourite song playlist</i> 
-<br>
-- <b>NodeJS with CodeSandbox - </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
-<br>
-- <b>VueJS with json-server - </b>  https://github.com/gokgu/vue-crud-project-planner                        -  <i>Project Planner</i>
+<li><b>VueJS with firebase - </b> https://playlist-vue-7fe67.firebaseapp.com                                   -  <i>Create your favourite song playlist</i></li>
+<li><b>NodeJS with CodeSandbox - </b> https://rnjzk.sse.codesandbox.io/                                        -  <i>Youtube Downloader</i></li>
+<li><b>VueJS with json-server - </b>  https://github.com/gokgu/vue-crud-project-planner                        -  <i>Project Planner</i></li>
 <br>
 
 <h2> Mobile Development
 <a href="https://www.appbrewery.co/"> 
 <img align="right" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a></h2>
 
-- <b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i>
-- <b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i>
-- <b>Building Flutter UIs for Intermediates - </b> https://github.com/gokgu/bmi_calculator_flutter_app       -  <i>BMI Calculator</i>
+<li><b>Flutter x Firebase Cloud Firestore - </b> https://github.com/gokgu/Flash-Chat-Flutter                   -  <i>Flash Chat</i></li>
+<li><b>Powering Your Flutter App with Live Weather Web Data - </b> https://github.com/gokgu/clima-flutter      -  <i>Clima - Weather Forecast</i></li>
+<li><b>Building Flutter UIs for Intermediates - </b> https://github.com/gokgu/bmi_calculator_flutter_app       -  <i>BMI Calculator</i></li>
 
 <h2> Web Development I
 <a href="https://www.appbrewery.co/"> 
 <img align="right" width="30px" height="30px" src="https://yt3.ggpht.com/ytc/AAUvwnhq0QY1ByYhFgeliBC9igAitd9JZaPrXnczG7DK=s900-c-k-c0x00ffffff-no-rj"/></a> </h2>
 
-- <b>ReactJS with CodeSandbox - </b>  https://3w0yr.csb.app/                                                 -  <i>Take Notes With Keeper</i>
-- <b>NodeJS with MongoDB and Heroku - </b> https://capstone-todo-example-003d0a7ff60a.herokuapp.com/         -  <i>To Do List</i>
-- <b>NodeJS with API and CodeSandbox - </b> https://34qd9-3000.sse.codesandbox.io/                           -  <i>Weather Forecast</i>
-- <b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i>
-- <b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                             -  <i>Drum Kit</i>
-- <b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/                                   -  <i>Dice Challenge</i>
-- <b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i>
-- <b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i>
+<li><<b>ReactJS with CodeSandbox - </b>  https://3w0yr.csb.app/                                                 -  <i>Take Notes With Keeper</i></li>
+<li><<b>NodeJS with MongoDB and Heroku - </b> https://capstone-todo-example-003d0a7ff60a.herokuapp.com/         -  <i>To Do List</i></li>
+<li><<b>NodeJS with API and CodeSandbox - </b> https://34qd9-3000.sse.codesandbox.io/                           -  <i>Weather Forecast</i></li>
+<li><<b>jQuery - </b> https://gokgu.github.io/Simon-Game-Challenge-jQuery/                                      -  <i>Simon Game Challenge</i></li>
+<li><<b>Advanced JavaScript - </b> https://gokgu.github.io/Advanced-JS-DOM-Example/                             -  <i>Drum Kit</i></li>
+<li><<b>JavaScript DOM - </b> https://gokgu.github.io/javascript-DOM-example/                                   -  <i>Dice Challenge</i></li>
+<li><<b>Bootstrap - </b> https://gokgu.github.io/html-with-bootstrap/                                           -  <i>One Page Web Site</i></li>
+<li><<b>CSS - </b> https://gokgu.github.io/html-with-css/                                                       -  <i>Resume with CSS</i></li>
 
 <h2> Web Development II
 <a href="https://vertex-academy.com/"> 
 <img align="right" width="30px" height="30px" src="https://pbs.twimg.com/profile_images/1125544862793764867/ysF9lTfJ_400x400.jpg"/></a> </h2>
 
-- <b>NodeJS CRUD - </b> https://github.com/gokgu/shoppingcart                                                -  <i>Shopping Cart</i>
-- <b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i>
-- <b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i>
-- <b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i>
-- <b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i>
+<li><b>NodeJS CRUD - </b> https://github.com/gokgu/shoppingcart                                                -  <i>Shopping Cart</i></li>
+<li><b>jQuery - </b>https://gokgu.github.io/todolist-jquery/                                                   -  <i>To Do List</i></li>
+<li><b>HTML CSS JS - </b> https://gokgu.github.io/Clock-Countdown-JS/                                          -  <i>Clock & Countdown</i></li>
+<li><b>HTML CSS JS - </b> https://gokgu.github.io/balloon-fight-JS/                                            -  <i>Balloon Fight</i></li>
+<li><b>HTML CSS JS - </b> https://gokgu.github.io/Block_Manipulation_JS/                                       -  <i>Block Manipulation</i></li>
 
 <h2> Skills and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <!-- BLOG-POST-LIST:START -->
