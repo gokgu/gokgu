@@ -10,11 +10,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- A passionate backend developer from Istanbul, Türkiye
-- 🔭 I’m currently working at Universe of Software.
-- 🌱 I’m currently learning Web and Mobile Development.
-- 💬 Ask me about .Net, Java programming languages.
-- 📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a>
+<li>A passionate backend developer from Istanbul, Türkiye</li>
+<li>🔭 I’m currently working at Universe of Software.</li>
+<li>🌱 I’m currently learning Web and Mobile Development.</li>
+<li>💬 Ask me about .Net, Java programming languages.</li>
+<li>📫 How to reach me: <a class="btn" href="mailto:ahmet.gokhan.gurel@gmail.com">ahmet.gokhan.gurel@gmail.com</a></li>
 
 <br>
 <h2 align="left"> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
