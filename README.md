@@ -23,9 +23,12 @@
 <br>
 
 <h2> Additional Projects </h2>
-- <b>VueJS with firebase - </b> https://playlist-vue-7fe67.firebaseapp.com                                   -  <i>Create your favourite song playlist</i>
-- <b>NodeJS with CodeSandbox- </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
+- <b>VueJS with firebase - </b> https://playlist-vue-7fe67.firebaseapp.com                                   -  <i>Create your favourite song playlist</i> 
+<br>
+- <b>NodeJS with CodeSandbox - </b> https://rnjzk.sse.codesandbox.io/                                         -  <i>Youtube Downloader</i>
+<br>
 - <b>VueJS with json-server - </b>  https://github.com/gokgu/vue-crud-project-planner                        -  <i>Project Planner</i>
+<br>
 
 <h2> Mobile Development
 <a href="https://www.appbrewery.co/"> 
