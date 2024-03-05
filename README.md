@@ -23,6 +23,8 @@
 <br>
 
 <h2> Additional Projects </h2>
+https://ideacloud-vue.firebaseapp.com/
+<li><b>VueJS with firebase & gsap - </b> https://ideacloud-vue.firebaseapp.com/                                -  <i>Create your cloud of idea</i></li>
 <li><b>VueJS with firebase - </b> https://playlist-vue-7fe67.firebaseapp.com                                   -  <i>Create your favourite song playlist</i></li>
 <li><b>NodeJS with CodeSandbox - </b> https://rnjzk.sse.codesandbox.io/                                        -  <i>Youtube Downloader</i></li>
 <li><b>VueJS with json-server - </b>  https://github.com/gokgu/vue-crud-project-planner                        -  <i>Project Planner</i></li>
